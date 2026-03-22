@@ -1,0 +1,77 @@
+**Italy — Pronatalist narrative from Fascism to the post-war silence: corrected data summary**
+
+---
+
+**Phase 1 — Pre-fascist period (pre-1922): absence of demographic policy**
+
+Source: *The Other Population Crisis*, Johns Hopkins University Press (open access chapter): `https://muse.jhu.edu/pub/1/oa_monograph/chapter/2151802`
+
+- In the period following the unification of Italy there was no demographic policy and little family policy
+- Italy was a liberal state based on the concept of limited government
+- Emigration, not underpopulation, was the primary demographic concern in the late 19th and early 20th century
+- Birth rates were high by European standards — approximately 29.9 per 1000 in 1921
+
+---
+
+**Phase 2 — Fascist pronatalist campaign: *Battaglia Demografica* (1925–1938)**
+
+Primary source: Forcucci (2010), "Battle for Births: The Fascist Pronatalist Campaign in Italy 1925 to 1938", *Journal of the Society for the Anthropology of Europe* 10(1): `https://www.academia.edu/1942864`
+
+- On 26 May 1927 (Ascension Day Speech before Parliament), Mussolini announced a series of legislative measures to encourage procreation, with the goal of boosting the Italian population from approximately 38.5 million to 60 million by the mid-20th century
+- The campaign was named *Battaglia Demografica* with the slogan *"il numero come forza"* (strength in numbers)
+- Specific measures introduced:
+	- Loans offered to married couples, with part of the loan cancelled for each new child born
+	- Married men with more than six children made fully exempt from taxation
+	- Bachelor tax introduced 1 October 1927, increasing progressively with age
+	- By the late 1930s, civil service recruitment and promotion favored married men with children
+- The regime explicitly associated motherhood, children, family, and virility with national greatness
+- Article 553 of the 1930 Penal Code made it illegal to publicly incite practices against procreation or to distribute information on contraception — the prohibition applied to propaganda and information, not to contraceptive devices per se
+- Abortion had been illegal prior to fascism and remained so; the 1926–1930 legislation reinforced existing prohibitions
+- **Results: the campaign is considered a failure**
+	- Birth rate declined from approximately 27.1 per 1000 in 1926–1930 consistently through the period
+	- Birth rate in 1936 was 112 per 1000 women — below pre-World War I levels (1911: 147 per 1000)
+	- Italy's population reached 44.4 million in 1941 — far below the 60 million target
+	- Marriage rates remained virtually unchanged throughout the campaign period
+
+---
+
+**Phase 3 — Post-war Republican period: pronatalism as political taboo (1945–present)**
+
+Source: *The Other Population Crisis*, Johns Hopkins University Press: `https://muse.jhu.edu/pub/1/oa_monograph/chapter/2151802`
+
+- After the fall of Fascism, the Catholic Church seized the opportunity to push back state intrusion into family policy
+- Pronatalist policy became equated with Fascism in public and political discourse
+- Republican Italy dismantled or allowed to atrophy fascist pronatalist policies
+- Crucially, some policies that had actually supported working women were also weakened in the process of dismantling the fascist framework
+- "The postwar Republic marked a discontinuity with fascism's pronatalist goals but also weakened policies that actually helped women" — verified direct quote from source
+- Italy developed no equivalent to the long-term pronatalist policies adopted by France and Sweden in the postwar period
+- "That is precisely what is lacking in Italy — what governments did in Sweden and France: developing long-term policies to reconcile individual and family interests with social interests" — verified direct quote from source
+
+---
+
+**Phase 4 — From pronatalism to reproductive rights (1945–1971)**
+
+Source: *Family planning, the pill, and reproductive agency in Italy, 1945–1971*, Contemporary European History (2021): `https://www.tandfonline.com/doi/full/10.1080/13507486.2021.1971628`
+
+- After 1945, discourses of individual freedom in reproductive behavior gained prominence and gradually came to underpin political debates on contraception and abortion
+- Most advocates of legal contraception in 1950s–1960s Italy were neo-Malthusians motivated by the desire to reduce births among the poor and young — framing women's reproductive bodies as instruments of demographic management rather than as autonomous agents
+- The contraceptive pill became available in Italian pharmacies from 1963, marketed as a menstrual cycle regulator, not as a contraceptive
+- Article 553 of the Fascist-era Penal Code — prohibiting public incitement to practices against procreation — remained in force until 1971
+- The formal legal removal of Article 553 in 1971 ended the prohibition on contraceptive information and advocacy; this is the accurate date for the legalization of contraceptive use, not the availability of the pill itself
+
+---
+
+**Data removed from previous version — reasons**
+
+- "Birth rates declined from 29.9 to 19.9 per 1000 between 1921 and 1939" — removed; the 19.9 figure had no verified primary source
+- "Birth control devices and abortion were outlawed in 1926" — corrected; the 1926–1930 legislation targeted propaganda and information on contraception, not devices; abortion prohibitions predated Fascism
+- "The contraceptive pill was legalized in Italy in 1971" — corrected; the pill was available from 1963 as a cycle regulator; 1971 is the date of abolition of Article 553, not pill legalization per se
+
+---
+
+**Full reference list for this task**
+
+- Forcucci (2010), Academia.edu: `https://www.academia.edu/1942864`
+- *The Other Population Crisis*, Johns Hopkins UP: `https://muse.jhu.edu/pub/1/oa_monograph/chapter/2151802`
+- *Family planning, the pill, and reproductive agency in Italy 1945–1971*, Tandfonline (2021): `https://www.tandfonline.com/doi/full/10.1080/13507486.2021.1971628`
+- Quine, *From Malthus to Mussolini* (PhD thesis, UCL, 1990): `https://discovery.ucl.ac.uk/1317873/`

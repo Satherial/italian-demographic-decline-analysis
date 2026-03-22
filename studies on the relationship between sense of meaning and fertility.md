@@ -1,0 +1,23 @@
+# Studies on the Relationship Between Sense of Meaning and Fertility
+
+## Frankl — Man's Search for Meaning (extended edition, post-1962)
+
+* Defines the **existential vacuum** as "a widespread phenomenon of the twentieth century" caused by a twofold loss: the disappearance of animal instincts and the rapid decline of traditions that previously structured human behavior and choice
+* **Exact verified quote**: "No instinct tells him what he has to do, and no tradition tells him what he ought to do; sometimes he does not even know what he wishes to do"
+* The existential vacuum manifests primarily as **boredom, inner emptiness, and Sunday neurosis**
+* Leads to what Frankl calls the **"mass neurotic triad"**: depression, aggression, and addiction
+* **No direct connection to fertility or reproductive decisions in the text** — the link to this research is theoretical, not empirical
+
+## Baumeister — Meanings of Life (Guilford Press, 1991/1992)
+
+**URL**: https://www.guilford.com/books/Meanings-of-Life/Roy-Baumeister/9780898625318
+
+* **Four needs for meaning**: purpose, values, efficacy, self-worth — all four confirmed from primary source
+* **The "value gap"**: modern society provides means to satisfy purpose, efficacy, and self-worth but not values; with the decline of religion and tradition, belief in universal values has diminished
+* **Parenthood treated explicitly as a source of meaning**: "parenthood is a significant source of value and fulfillment" — verified from primary source
+* **Paradox on parenthood** also verified: happiness drops at birth of first child and does not recover until children leave home, yet parents consistently report having made a meaningful difference
+* **No direct empirical connection to fertility rates** — the framework is theoretical
+
+## On the Empirical Link Between Meaning and Fertility
+
+**Finding**: No peer-reviewed paper directly connecting Frankl or Baumeister to fertility rates or reproductive decisions was found. The connection is a theoretical bridge that requires explicit construction in your analysis, not a documented empirical finding.

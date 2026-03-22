@@ -1,0 +1,86 @@
+**Social fragmentation, gender roles, and fertility in Italy — Data summary (2015–2025)**
+
+---
+
+**1. Structural change in Italian family behavior**
+Aassve et al. (2024), Population and Development Review
+`https://onlinelibrary.wiley.com/doi/10.1111/padr.12645`
+
+- Italy is following the Second Demographic Transition pattern: cohabitation, out-of-wedlock births, and divorce are all increasing rapidly
+- The stereotypical view of Italy as a traditional and family-oriented society is no longer supported by recent data
+- Young Italians are on track to converge with Nordic behavioral patterns
+- Paper 7 in the previous list — full text not accessible, declared explicitly by the agent
+
+---
+
+**2. Female employment and first childbirth in Italy**
+Alderotti (2022), Genus 78(1)
+`https://genus.springeropen.com/articles/10.1186/s41118-022-00162-w`
+Open access ✓
+
+- Recent macro-level evidence suggests a reversal in the female employment/fertility relationship is gradually taking place, driven largely by Northern regions
+- Italy is marked by lower female labour force participation and fertility rates compared to most other European countries
+- Being employed is not significantly related to transition to motherhood at country level and in Northern regions, but weakly negatively associated in Southern regions (HR = 0.949)
+- Women still enrolled in education show the lowest probability of transition to motherhood across all models
+- Internal migrants show slightly lower probability of transition to motherhood, especially in Southern Italy (HR = 0.759)
+- Men's stable employment remains a precondition for having children; for women the relationship is not straightforward
+- The employment/motherhood association was negative before the 1980s; direction of change thereafter requires further micro-level investigation
+
+---
+
+**3. Women's domestic burden and gendered fertility intentions in Italy**
+European Journal of Population (2025)
+`https://link.springer.com/article/10.1007/s10680-025-09743-9`
+
+- Women's share of tertiary education aged 25–34 tripled from 12% to 36% in two decades, now exceeding men (23%)
+- Italy still registers among the lowest female employment rates in Europe: 52.2% versus 70.9% for men — gender gap of 18.7 points
+- Women with heavier domestic burden show lower intention to enter motherhood — effect is significant only for women, not men
+- Effect is particularly strong among working women in Centre-North Italy
+- Unequal distribution of household chores is a key determinant of low fertility intentions, independent of economic factors
+
+---
+
+**4. Formal childcare services and fertility in Italy**
+Genus (2023)
+`https://genus.springeropen.com/articles/10.1186/s41118-023-00208-7`
+Open access ✓
+
+- When women's aspirations for gender equity are at odds with the prevailing cultural-institutional context, low fertility is the outcome
+- Regional variation in early childhood education and care (ECEC) coverage is a stronger predictor of fertility than national-level measures
+- Higher access to childcare services is associated with higher probability of having children
+- Strong territorial differences: North versus South coverage gap is a structural feature
+- Childcare availability reduces the opportunity cost of motherhood
+
+---
+
+**5. Propensity for parenthood in Italy — cultural orientations, individual choices, and welfare policies**
+MDPI Social Sciences (2025)
+`https://www.mdpi.com/2076-0760/14/3/151`
+
+- Mixed-methods study using focus groups in six Southern Italian regions (2022–2024)
+- The choice to become a parent is not only linked to socioeconomic factors or availability of services
+- Emerging cultural models — changes in gender relations, relationship with new media, economic and environmental uncertainty — all play an independent role
+- Cultural norms interact with welfare state features to shape fertility decisions
+- Fertility is not reducible to economic factors alone
+
+---
+
+**6. Fertility intentions in times of rising economic uncertainty**
+Social Indicators Research (2020)
+`https://link.springer.com/article/10.1007/s11205-020-02554-x`
+
+- Study covers Italy during and after the Great Recession (post-2008)
+- Economic uncertainty reduces fertility intentions — effect documented for both men and women
+- Effects differ by gender: women's intentions are more sensitive to individual employment conditions; men's to contextual labor market indicators
+- Couples' working conditions and macro labor market indicators are among the most relevant factors
+- Economic security functions as a precondition for childbearing decisions
+
+---
+
+**7. IMF Country Report Italy (2024)**
+`https://www.elibrary.imf.org/view/journals/002/2024/241/article-A001-en.xml`
+
+- Italy's coexistence of low fertility and low female labor force participation is difficult to reconcile with standard economic theory
+- Work-family outcomes have undergone significant shifts in response to structural changes in employment contracts and the macroeconomic environment
+- Constraints on time, income, and availability of childcare services are identified as pivotal factors
+- Aging population and low birth rates identified as a primary macroeconomic risk for Italy

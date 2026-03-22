@@ -1,0 +1,97 @@
+**Italy — Distribution of domestic work in couples: corrected data summary**
+
+Primary source: ISTAT "Indagine sull'uso del tempo" — full surveys 2002–2003, 2008–2009, 2013–2014
+Secondary sources verified: InGenere, 4e-parent (both citing ISTAT directly), LaVoce.info (Barigozzi & Monfardini 2020)
+Full report: ISTAT "I tempi della vita quotidiana" (2024): `https://www.istat.it/wp-content/uploads/2024/02/ebook-I-tempi-della-vita-quotidiana.pdf`
+
+---
+
+**Daily time allocation — general (ISTAT 2013–2014, verified)**
+
+- Women aged 20–74 dedicate on average 5 hours and 9 minutes per day to unpaid domestic work; men: 2 hours and 16 minutes per day
+- Women aged 25–64: domestic work represents 21.7% of the daily average (5h 13min); men aged 25–64: 7.6% (1h 50min)
+- When combining paid and unpaid work, women work approximately one hour more per day than men — exact minute-level figures not confirmed from primary source in this session
+
+**Data removed:** the figure "54.7% of employed women work more than 60 hours per week" — not found in any verified source; removed
+
+---
+
+**Asymmetry index — share of domestic work done by women in couples**
+
+- 2008–2009: 78.4% of total couple domestic work done by women — verified textually from InGenere
+- 2013–2014: 74% of total couple domestic work done by women — verified textually from InGenere
+- The trend shows a slow but measurable reduction over the period
+- **Data removed:** the 62.6% figure for 2020–2021 — not confirmed in any verified source in this session; removed until primary source is found
+
+**Data removed:** North/South breakdown (70% South, 61.5% Centre, 58.9% North) — not confirmed textually in this session; removed
+
+---
+
+**Breakdown by specific domestic activity (ISTAT 2013–2014, verified from InGenere)**
+
+- Home and vehicle maintenance: 91.2% done by men (8.8% by women) — verified textually
+- Care of plants and animals: 69.6% by men (30.4% by women) — verified textually
+- Washing, ironing, cleaning, meal preparation: predominantly by women — directional finding confirmed; specific percentages (94%, 77%, 76.6%) not confirmed textually in this session and removed pending direct ISTAT verification
+
+---
+
+**Childcare specifically (ISTAT 2013–2014, verified from 4e-parent)**
+
+- Fathers who care for minor children daily: 46.8%; mothers: 73%
+- Among those who care for children daily: fathers spend on average 1 hour and 20 minutes; mothers 1 hour and 44 minutes — a much smaller gap than for domestic work
+- Exception: on weekends, quality time with children partially reverses — in 2014 fathers dedicated 9 more minutes than mothers to quality time with children on weekend days
+
+**Time allocation comparison between partners (LaVoce.info, Barigozzi & Monfardini 2020, verified):**
+- Domestic work: women dedicate approximately 200% more time than their partners
+- Primary childcare: women dedicate approximately 100% more time than their partners
+- Quality time with children: women dedicate approximately 25% more time than their partners
+- Paid work: women dedicate approximately 13% less time than their partners
+- Leisure: women dedicate approximately 34% less time than their partners
+
+---
+
+**Rate of change over time (verified from 4e-parent)**
+
+- 2002–2008: men in couples increased their daily domestic work commitment by an average of 1 minute per year
+- 2008–2014: acceleration recorded — time dedicated daily by men to domestic and family care increased by 2.5 minutes per year
+
+---
+
+**Gender gap emerging by age (verified from InGenere)**
+
+- Gender differences in domestic work are absent up to age 10, then intensify progressively
+- Ages 11–14: girls already dedicate 13 more minutes per day to domestic work than boys
+- Ages 15–24: gap reaches approximately one hour per day
+- Only 44.2% of young men spend at least 10 minutes per day on any domestic activity, against 72.3% of young women
+
+---
+
+**Male attitudes toward domestic work (ISTAT survey, verified from 4e-parent)**
+
+- 54.1% of male respondents state it is better for the family if the man focuses primarily on economic needs and the woman on home care
+- 53.7% state they are not capable of doing domestic work as well as women
+- 31.9% state it is not right to split domestic tasks equally even when both partners work full-time
+
+---
+
+**Direct connection to fertility (LaVoce.info, Barigozzi, Gaggini, Montinari, April 2025, verified)**
+
+- Couples that share domestic work less equitably have lower probabilities of becoming parents
+- The unequal division of domestic work contributes to the persistence of gender gaps in the labour market, as women have fewer career opportunities and earn less over a lifetime
+
+---
+
+**Data availability note**
+
+The last full ISTAT "Uso del tempo" survey with diary methodology was conducted in 2013–2014. A new full wave has been announced but results are not yet published as of early 2026. All 2013–2014 microdata are available for download from ISTAT with registration.
+
+---
+
+**Full reference list for this task**
+
+- ISTAT "I tempi della vita quotidiana" (2024 ebook): `https://www.istat.it/wp-content/uploads/2024/02/ebook-I-tempi-della-vita-quotidiana.pdf`
+- InGenere "Come le coppie si dividono il tempo": `https://www.ingenere.it/articoli/come-coppie-dividono-tempo`
+- LaVoce.info, Barigozzi & Monfardini (2020): `https://lavoce.info/archives/69599/quelluso-del-tempo-che-divide-donne-e-uomini/`
+- LaVoce.info, Barigozzi, Gaggini, Montinari (April 2025): `https://lavoce.info/archives/107512/lavori-domestici-una-porta-chiusa-sulla-parita-di-genere/`
+- 4e-parent "Divisione del lavoro domestico": `https://www.4e-parent.eu/it/risorse/articoli/divisione-del-lavoro-domestico`
+- ISTAT microdata "Uso del tempo" (registration required): `https://www.istat.it/microdati/`
