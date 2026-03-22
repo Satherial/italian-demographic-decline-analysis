@@ -1,5 +1,7 @@
 # Italian Demographic Decline Analysis
 
+**Disclaimer**: This is a personal research project, not a professional or academic work. It represents an individual effort to collect various perspectives and evidence to support the thesis described below. The research methodology and conclusions reflect the author's personal investigation rather than formal academic standards.
+
 A comprehensive research project investigating the multifaceted causes of Italy's demographic decline, focusing on cultural, social, and psychological factors rather than purely economic explanations.
 
 ## Research Overview
@@ -104,6 +106,8 @@ This project leverages advanced AI tools for research, analysis, and documentati
 **Completed Areas**: Sections 1-2 (National identity, generational purpose, meaning/fertility, pronatalist narrative)
 
 **In Progress**: Sections 3-7 (Gender roles, male crisis, cultural influences, economic factors, educational paradox)
+
+**Data Collection Progress**: For detailed tracking of data collection status across all research areas, please refer to the `TODO.md` file in this repository.
 
 ## Data Sources
 
