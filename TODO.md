@@ -25,10 +25,10 @@
 - Search for studies on crisis of traditional masculinity model in Italy (Kimmel, Connell) - DONE
 
 **5. Influence of political-cultural movements on family perception**
-- Measure change in perception of motherhood as choice in Italian culture 1980-present
-- Collect data on Italian women who want children but feel socially judged (Eurispes, ISTAT)
-- Analyze correlation between political orientation and fertility in Italy (North-South comparison controlling for economy)
-- Compare French case: explicit pro-natality policies and higher TFR (INED)
+- Measure change in perception of motherhood as choice in Italian culture 1980-present - DONE
+- Collect data on Italian women who want children but feel socially judged (Eurispes, ISTAT) - DONE
+- Analyze correlation between political orientation and fertility in Italy (North-South comparison controlling for economy) - DONE
+- Compare French case: explicit pro-natality policies and higher TFR (INED) - DONE
 
 **6. Economic instability as rationalization (not primary cause)**
 - Verify historical correlation between GDP and TFR in Italy: decline begins in 1970s, during economic growth
