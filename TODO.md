@@ -44,9 +44,9 @@
 - Compare Italian education form with higher TFR countries: master's degree average over 28 years (OECD) - DONE
 
 **8. Crisis of faith and secularization**
-- Measure decline of Catholic religious practice in Italy over time (ISTAT, Ipsos, Eurispes: Sunday mass, baptisms, religious marriages)
-- Collect data on decline of Catholic identity by generation in Italy (Eurobarometer, World Values Survey, EVS)
-- Compare level of religious practice between Italy and USA by age group and correlation with TFR
-- Search for studies on relationship between religious practice and fertility (Lesthaeghe, Inglehart - secularization as driver of Second Demographic Transition)
-- Analyze why religiosity remained higher in USA compared to Western Europe (American religious exceptionalism)
-- Collect data on religious vs civil marriages in Italy 1970-2024 as proxy of faith grounding in life choices
+- Measure decline of Catholic religious practice in Italy over time (ISTAT, Ipsos, Eurispes: Sunday mass, baptisms, religious marriages) - DONE
+- Collect data on decline of Catholic identity by generation in Italy (Eurobarometer, World Values Survey, EVS) - DONE
+- Compare level of religious practice between Italy and USA by age group and correlation with TFR - DONE
+- Search for studies on relationship between religious practice and fertility (Lesthaeghe, Inglehart - secularization as driver of Second Demographic Transition) - DONE
+- Analyze why religiosity remained higher in USA compared to Western Europe (American religious exceptionalism) - DONE
+- Collect data on religious vs civil marriages in Italy 1970-2024 as proxy of faith grounding in life choices - DONE
