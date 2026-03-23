@@ -18,8 +18,8 @@
 - Analyze distribution of domestic work in Italian couples (ISTAT "Time use") - DONE
 
 **4. Male existential crisis and social withdrawal**
-- Collect data on male social withdrawal in Italy: NEET, isolation, digital dependencies (ISTAT, AGCOM, Eurispes)
-- Analyze male educational crisis: gender school gap (OECD PISA by gender)
+- Collect data on male social withdrawal in Italy: NEET, isolation, digital dependencies (ISTAT, AGCOM, Eurispes) - DONE
+- Analyze male educational crisis: gender school gap (OECD PISA by gender) - DONE
 - Study correlation between male socioeconomic status and propensity to form a family
 - Collect data on video games, pornography and social media use among young Italian men (Zimbardo "Man Disconnected")
 - Search for studies on crisis of traditional masculinity model in Italy (Kimmel, Connell)
