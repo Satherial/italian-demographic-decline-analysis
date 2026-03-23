@@ -37,11 +37,11 @@
 - Compare poor countries with high fertility and rich countries with low fertility (U-shape fertility-income in developed countries) - DONE
 
 **7. Education, information overload and decision paralysis**
-- Collect data on average age at first child by education level in Italy (ISTAT "Births and fertility")
-- Study paralysis by analysis phenomenon in reproductive decisions (Schwartz, "option value childbearing")
-- Analyze correlation between years of education and TFR in OECD countries (OECD Education at a Glance)
-- Investigate role of news anxiety on reproductive propensity (Ipsos, Doxa youth surveys, eco-anxiety fertility)
-- Compare Italian education form with higher TFR countries: master's degree average over 28 years (OECD)
+- Collect data on average age at first child by education level in Italy (ISTAT "Births and fertility") - DONE
+- Study paralysis by analysis phenomenon in reproductive decisions (Schwartz, "option value childbearing") - DONE
+- Analyze correlation between years of education and TFR in OECD countries (OECD Education at a Glance) - DONE
+- Investigate role of news anxiety on reproductive propensity (Ipsos, Doxa youth surveys, eco-anxiety fertility) - DONE
+- Compare Italian education form with higher TFR countries: master's degree average over 28 years (OECD) - DONE
 
 **8. Crisis of faith and secularization**
 - Measure decline of Catholic religious practice in Italy over time (ISTAT, Ipsos, Eurispes: Sunday mass, baptisms, religious marriages)
