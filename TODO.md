@@ -50,3 +50,16 @@
 - Search for studies on relationship between religious practice and fertility (Lesthaeghe, Inglehart - secularization as driver of Second Demographic Transition) - DONE
 - Analyze why religiosity remained higher in USA compared to Western Europe (American religious exceptionalism) - DONE
 - Collect data on religious vs civil marriages in Italy 1970-2024 as proxy of faith grounding in life choices - DONE
+
+**9. Hedonistic culture and the rejection of sacrifice (dolce vita vs. parenthood)**
+- Investigate how Italian cultural identity prioritizes leisure, sociality, and aesthetic perfection over the sacrifices of parenthood (Eurispes – “Rapporto Italia” on quality of life; Doxa – style of life surveys)
+- Compare with East Asian contexts where rejection of parenthood is linked to work culture, not leisure defense (IPSS Tokyo; KOSTAT)
+
+**10. Cultural narratives: absence of positive parenthood portrayals and extinction rhetoric**
+- Analyze representation of children and family in Italian media (cinema, fiction, advertising) over last 30 years (Osservatorio della Comunicazione – Università Cattolica; Rai Teche)
+- Study the psychological impact of catastrophic demographic discourse (“Italy is dying”) on individual reproductive agency (Osservatorio di Pavia – communication analysis; Istituto Toniolo – “Rapporto Giovani” on future perception)
+
+**13. The American exception: risk tolerance, individualism, and religious community**
+- Study how US cultural tolerance for instability (“making it work”) enables childbearing in precarious conditions (Pew Research Center; General Social Survey)
+- Analyze the role of religious community in sustaining fertility regardless of economic status (Pew Research; Putnam “Our Kids”)
+- Compare with Italy’s rigid prerequisites for parenthood (homeownership, permanent job, marriage)
