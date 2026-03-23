@@ -33,8 +33,8 @@
 **6. Economic instability as rationalization (not primary cause)**
 - Verify historical correlation between GDP and TFR in Italy: decline begins in 1970s, during economic growth - DONE
 - Compare fertility among Italian social classes by income quintiles (ISTAT) - DONE
-- Study psychology of "right moment" and reproductive procrastination (Schwartz "Paradox of Choice")
-- Compare poor countries with high fertility and rich countries with low fertility (U-shape fertility-income in developed countries)
+- Study psychology of "right moment" and reproductive procrastination (Schwartz "Paradox of Choice") - DONE
+- Compare poor countries with high fertility and rich countries with low fertility (U-shape fertility-income in developed countries) - DONE
 
 **7. Education, information overload and decision paralysis**
 - Collect data on average age at first child by education level in Italy (ISTAT "Births and fertility")
