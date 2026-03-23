@@ -106,6 +106,18 @@ This project leverages advanced AI tools for research, analysis, and documentati
 
 ## Key Findings (Completed Research Areas)
 
+### Comprehensive Analysis Documents
+For a complete synthesis and evaluation of the research thesis, see:
+- **`thesis-comparison-analysis.md`** - Full analysis in English
+- **`thesis-comparison-analysis-italian.md`** - Full analysis in Italian
+
+These documents provide:
+- Empirical baseline with demographic data (1964-2024)
+- Six structural pillars analysis (economic paradox, modernization effects, secularization, etc.)
+- Evaluation of mainstream explanations vs cultural hypothesis
+- Three-tier causal architecture (root causes → mechanisms → amplifiers)
+- Assessment of the three core thesis propositions
+
 ### National Identity Crisis
 - Italy exhibits the weakest national identity among major European nations
 - Post-1943 collapse of national narrative created persistent identity vacuum
