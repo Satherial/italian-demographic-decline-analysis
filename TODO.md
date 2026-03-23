@@ -20,9 +20,9 @@
 **4. Male existential crisis and social withdrawal**
 - Collect data on male social withdrawal in Italy: NEET, isolation, digital dependencies (ISTAT, AGCOM, Eurispes) - DONE
 - Analyze male educational crisis: gender school gap (OECD PISA by gender) - DONE
-- Study correlation between male socioeconomic status and propensity to form a family
-- Collect data on video games, pornography and social media use among young Italian men (Zimbardo "Man Disconnected")
-- Search for studies on crisis of traditional masculinity model in Italy (Kimmel, Connell)
+- Study correlation between male socioeconomic status and propensity to form a family - DONE
+- Collect data on video games, pornography and social media use among young Italian men (Zimbardo "Man Disconnected") - DONE
+- Search for studies on crisis of traditional masculinity model in Italy (Kimmel, Connell) - DONE
 
 **5. Influence of political-cultural movements on family perception**
 - Measure change in perception of motherhood as choice in Italian culture 1980-present
@@ -42,6 +42,7 @@
 - Analyze correlation between years of education and TFR in OECD countries (OECD Education at a Glance)
 - Investigate role of news anxiety on reproductive propensity (Ipsos, Doxa youth surveys, eco-anxiety fertility)
 - Compare Italian education form with higher TFR countries: master's degree average over 28 years (OECD)
+
 **8. Crisis of faith and secularization**
 - Measure decline of Catholic religious practice in Italy over time (ISTAT, Ipsos, Eurispes: Sunday mass, baptisms, religious marriages)
 - Collect data on decline of Catholic identity by generation in Italy (Eurobarometer, World Values Survey, EVS)
