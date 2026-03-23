@@ -97,6 +97,7 @@ This project leverages advanced AI tools for research, analysis, and documentati
 - **Perplexity AI**: Academic source discovery and verification
 - **ChatGPT** (OpenAI): Comparative analysis and hypothesis generation
 - **Gemini** (Google): Cross-validation and alternative perspective generation
+- **Kimi K2.5** (Moonshot AI): Advanced reasoning and document analysis
 - **SWE-1.5**: Code generation for data processing and visualization
 
 ### Research Process
