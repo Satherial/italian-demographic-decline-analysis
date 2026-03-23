@@ -31,8 +31,8 @@
 - Compare French case: explicit pro-natality policies and higher TFR (INED) - DONE
 
 **6. Economic instability as rationalization (not primary cause)**
-- Verify historical correlation between GDP and TFR in Italy: decline begins in 1970s, during economic growth
-- Compare fertility among Italian social classes by income quintiles (ISTAT)
+- Verify historical correlation between GDP and TFR in Italy: decline begins in 1970s, during economic growth - DONE
+- Compare fertility among Italian social classes by income quintiles (ISTAT) - DONE
 - Study psychology of "right moment" and reproductive procrastination (Schwartz "Paradox of Choice")
 - Compare poor countries with high fertility and rich countries with low fertility (U-shape fertility-income in developed countries)
 

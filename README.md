@@ -61,6 +61,7 @@ This project leverages advanced AI tools for research, analysis, and documentati
 - **Claude** (Anthropic): Primary research assistant for data analysis, literature review, and synthesis
 - **Perplexity AI**: Academic source discovery and verification
 - **ChatGPT** (OpenAI): Comparative analysis and hypothesis generation
+- **Gemini** (Google): Cross-validation and alternative perspective generation
 - **SWE-1.5**: Code generation for data processing and visualization
 
 ### Research Process
