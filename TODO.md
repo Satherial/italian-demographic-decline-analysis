@@ -65,4 +65,4 @@
 - Compare with Italy’s rigid prerequisites for parenthood (homeownership, permanent job, marriage) - DONE
 
 **12. Philosophical underpinnings: will to life, power, and collective reproduction**
-- Analyze philosophical underpinnings: will to life, power, and collective reproduction
+- Analyze philosophical underpinnings: will to life, power, and collective reproduction - DONE
