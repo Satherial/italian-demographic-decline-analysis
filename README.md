@@ -238,8 +238,8 @@ Primary institutional sources include:
 2. **Weak income-fertility relationship** - Cross-sectional and temporal data suggest household economic well-being is not the primary driver of reproductive decisions at population level
 
 3. **Cultural-institutional shift hypothesis** - The research explores whether declining fertility correlates with:
-   - Changing temporal preferences (devaluation of long-term commitment frameworks)
-   - Shift from collective to atomized meaning structures
+   - Changing temporal preferences (possible changes in long-term commitment frameworks)
+   - Shift toward more individual-centered meaning structures
    - Erosion of intergenerational obligation norms in social institutions
 
 **Analytical Framing**: These propositions are offered as sociological hypotheses, not normative judgments. The research examines structural and cultural patterns at the aggregate level—**not** individual moral choices. Any reference to "collective responsibility," "sacrifice," or "transcendent purpose" refers to institutionalized cultural frameworks (what Durkheim would call collective representations), not personal virtue or blame.

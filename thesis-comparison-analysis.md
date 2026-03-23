@@ -132,10 +132,10 @@ The thesis under evaluation consists of three propositions:
 
 > 1. Limited efficacy of economic incentives — Financial subsidies and family bonuses show weak correlation with fertility behavior in comparative European analysis
 > 2. Weak income-fertility relationship — Cross-sectional and temporal data suggest household economic well-being is not the primary driver of reproductive decisions at population level
-> 3. Cultural-institutional shift hypothesis — The research explores whether declining fertility correlates with:
->    - Changing temporal preferences (devaluation of long-term commitment frameworks)
->    - Shift from collective to atomized meaning structures
->    - Erosion of intergenerational obligation norms in social institutions
+> 3. **Cultural-institutional shift hypothesis** - The research explores whether declining fertility correlates with:
+   - Changing temporal preferences (possible changes in long-term commitment frameworks)
+   - Shift toward more individual-centered meaning structures
+   - Erosion of intergenerational obligation norms in social institutions
 
 ### Proposition 1: Limited efficacy of economic incentives
 

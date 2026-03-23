@@ -133,8 +133,8 @@ La tesi in valutazione consiste di tre proposizioni:
 > 1. Efficacia limitata degli incentivi economici — I sussidi finanziari e i bonus familiari mostrano debole correlazione con il comportamento di fertilità nell'analisi comparativa europea
 > 2. Debole relazione reddito-fertilità — I dati cross-sezionali e temporali suggeriscono che il benessere economico delle famiglie non è il driver primario delle decisioni riproduttive a livello di popolazione
 > 3. Ipotesi di cambiamento culturale-istituzionale — La ricerca esplora se il declino della fertilità correla con:
->    - Cambiamento delle preferenze temporali (svalutazione dei framework di impegno a lungo termine)
->    - Spostamento da strutture di significato collettive a atomizzate
+>    - Cambiamento delle preferenze temporali (possibili cambiamenti nei framework di impegno a lungo termine)
+>    - Spostamento verso strutture di significato più individuali
 >    - Erosione delle norme di obbligo intergenerazionale nelle istituzioni sociali
 
 ### Proposizione 1: Efficacia limitata degli incentivi economici
