@@ -63,3 +63,6 @@
 - Study how US cultural tolerance for instability (“making it work”) enables childbearing in precarious conditions (Pew Research Center; General Social Survey) - DONE
 - Analyze the role of religious community in sustaining fertility regardless of economic status (Pew Research; Putnam “Our Kids”) - DONE
 - Compare with Italy’s rigid prerequisites for parenthood (homeownership, permanent job, marriage) - DONE
+
+**12. Philosophical underpinnings: will to life, power, and collective reproduction**
+- Analyze philosophical underpinnings: will to life, power, and collective reproduction
