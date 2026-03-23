@@ -59,7 +59,7 @@
 - Analyze representation of children and family in Italian media (cinema, fiction, advertising) over last 30 years (Osservatorio della Comunicazione – Università Cattolica; Rai Teche) - DONE
 - Study the psychological impact of catastrophic demographic discourse (“Italy is dying”) on individual reproductive agency (Osservatorio di Pavia – communication analysis; Istituto Toniolo – “Rapporto Giovani” on future perception) - DONE
 
-**13. The American exception: risk tolerance, individualism, and religious community**
-- Study how US cultural tolerance for instability (“making it work”) enables childbearing in precarious conditions (Pew Research Center; General Social Survey)
+**11. The American exception: risk tolerance, individualism, and religious community**
+- Study how US cultural tolerance for instability (“making it work”) enables childbearing in precarious conditions (Pew Research Center; General Social Survey) - DONE
 - Analyze the role of religious community in sustaining fertility regardless of economic status (Pew Research; Putnam “Our Kids”)
 - Compare with Italy’s rigid prerequisites for parenthood (homeownership, permanent job, marriage)
